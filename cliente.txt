@@ -1,0 +1,11 @@
+1,17277931-K,Juan Carlos,65022203,Prestamista,Los azulejos 321
+2,18622178-8,Claudio,86523475,Articulos Oficina,Hernando De Aguirre 421
+3,9934686-8,Angel Torres,94592464,Director teatral,Las Malvas 421
+4,8367718-k,Marcos,2340586,Asesor Comercial,Hernando De Aguirre 441
+5,76225560-k,Chilenglish,32356043,Instituto,Lota 654 dpto 32B
+6,22298638-9,Ana Maria,79329342,Asesoria Legal,Los Argianos 3224
+7,19173973-6,Matias Martinez,66666676,Firma legal,Los Arcianos 754 of54
+8,96800570-7,Chilectra,26752000,Electricidad,Avda. santa rosa 76
+9,96963440-6,Nuevosur,3311000,Agua,Villota 373 Curicó
+10,96722460-K,Metrogas S.A,23378000,Gas,El regidor 54
+11,76823230-k,Macleay,60062011,Servicios Transitorios,ANGAMOS 507

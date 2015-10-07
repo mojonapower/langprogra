@@ -1,0 +1,11 @@
+2,Macleay,3,11,2014,150000,19,10 x mantas ergotermicas($15.000) = $150.000
+5,Chilectra,4,11,2014,1200000,19,300 x uniformes($4.000) = $1.200.000
+25,Claudio,13,5,2015,10000,19,1 x Cubrecamas a medida($10.000) = $10.000
+6,Ana Maria,2,3,2015,405000,19,15 x Poleras personalizadas($9.000) = $405.000
+8,Marcos,12,2,2015,120000,19,8 x mantas ergotermicas($15.000) = $120.000
+1,Marcos,20,3,2015,300000,19,100 x Poleras personalizadas($3000) = $300000
+7,Nuevosur,12,3,2015,800000,19,200 x uniformes($4.000) = $800.000
+17,Matias Martinez,17,5,2015,512000,19,16 x Trajes($32.000) = $512.000
+23,Chilenglish,13,2,2015,360000,19,3 x Telon gama ancha($120.000) = $360.000
+24,Angel Torres,15,3,2015,210000,19,1 x Telon gama anchaE3($210.000) = $210.000
+16,Felipe Zapata,16,3,2015,165230,20,150 x Insignias LoL($1.200) = $165.230

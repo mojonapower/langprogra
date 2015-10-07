@@ -1,0 +1,11 @@
+2,Metrogas S.A,3,11,2014,150000,19,5 x Granel gas($30.000) = $150.000
+5,Chilectra,4,11,2014,1350000,19,3 x Generadores electricidad($450.000) = $1.350.000
+6,Nuevosur,2,12,2014,800000,19,20 x Tanque de agua($40.000) = $800.000
+7,Marcos,15,3,2015,24000000,19,300 x (200 metros) de algodon($80.000) = $24.000.000
+3,Felipe Zapata,17,4,2015,6500,19,1 x Diseño custom($6.500) = $6.500
+8,Chilenglish,2,3,2015,80000,19,4 x clase grupo 20($70.000) = $280.000
+9,Marcos,5,3,2015,1300000,19,1300 x colaciones basicas($1.200) = $1.560.000
+10,Marcos,10,4,2015,25500000,19,300 x (200 metros) de lana($85.000) = $25.500.000
+13,Metrogas S.A,3,4,2015,150000,19,5 x Granel gas($30.000) = $150.000
+12,Nuevosur,3,2,2015,800000,19,20 x Tanque de agua($40.000) = $800.000
+1,Claudio,17,3,2015,200000,19,15 x paños(2000) = 20000
